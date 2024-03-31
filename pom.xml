@@ -122,8 +122,8 @@
 			<forkCount>3</forkCount>
 			<reuseForks>ture</reuseForks>
 			<suiteXmlFiles>
-				<!-- <suiteXmlFile>src/test/resources/testrunners/testng_regression.xml</suiteXmlFile> -->
-				<suiteXmlFile>${suiteMnlFile}</suiteXmlFile>
+				 <suiteXmlFile>src/test/resources/testrunners/testng_regression.xml</suiteXmlFile> 
+				<!--<suiteXmlFile>${suiteMnlFile}</suiteXmlFile>-->
 			</suiteXmlFiles>
 			
 			<argLine>
